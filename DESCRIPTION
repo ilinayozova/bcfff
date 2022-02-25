@@ -1,4 +1,4 @@
-Package: bcf
+Package: bcfff
 Type: Package
 Title: Causal Inference for a Binary Treatment and Continuous Outcome
         using Bayesian Causal Forests
