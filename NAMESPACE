@@ -2,7 +2,7 @@
 
 S3method(predict,bcf)
 S3method(summary,bcf)
-export(bcfff)
+export(bcf)
 importFrom(RcppParallel,RcppParallelLibs)
 importFrom(stats,approxfun)
 importFrom(stats,lm)
